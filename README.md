@@ -8,7 +8,7 @@
   </div>  
   </a>
 </div>
----
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Albertoocosta&style=flat-square&color=blue"/>
 </div>
@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
 ### 📫 Contact
 
 <a href="https://www.linkedin.com/in/albertoocosta/" target="_blank">
@@ -42,8 +40,3 @@
 <a href="mailto:albertoocostapt@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-
-
-
-

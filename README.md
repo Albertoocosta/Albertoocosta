@@ -3,7 +3,6 @@
 <div align="center">
   <a href="https://github.com/Albertoocosta">
   <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?      username=Albertoocosta&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Albertoocosta&theme=github_dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Albertoocosta&theme=github_dark" />
   </div>  

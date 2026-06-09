@@ -16,7 +16,7 @@
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,c,cpp,angular,react" />
+  <img src="https://skillicons.dev/icons?i=ts,c,cpp,java,angular,springboot" />
 </p>
 
 ### 🧰 Tools
